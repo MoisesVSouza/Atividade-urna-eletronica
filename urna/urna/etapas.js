@@ -8,7 +8,7 @@ let etapas = [
                 nome: 'Bob Esponja',
                 partido: 'ABC',
                 fotos: [
-                    {url: 'bob_esponja.png', legenda: 'Presidente'}
+                    {url: 'urna/urna/img/bob_esponja.png', legenda: 'Presidente'}
                 ]
             },
             {
@@ -16,7 +16,7 @@ let etapas = [
                 nome: 'Lula Molusco',
                 partido: 'DEFG',
                 fotos: [
-                    {url: 'lula_molusco.png', legenda: 'Presidente'}
+                    {url: 'urna/urna/img/lula_molusco.png', legenda: 'Presidente'}
                 ]
             }       
         ]       
